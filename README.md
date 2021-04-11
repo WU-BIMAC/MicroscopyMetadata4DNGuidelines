@@ -6,4 +6,4 @@ The community-driven [Microscopy Metadata Specifications]() initially proposed b
 
 Please update all links that point to this repository to reflect the new address:
 
-https://github.com/WU-BIMAC/MicroscopyMetadataCommunitySpecs
+https://github.com/WU-BIMAC/MicroscopyMetadataCommSpecs

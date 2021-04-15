@@ -2,7 +2,7 @@
 
 The community-driven [NBO Microscopy Metadata Specifications](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs)
 
-[**HAVE A NEW HOME**](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs)
+[**HAS A NEW HOME**](https://github.com/WU-BIMAC/NBOMicroscopyMetadataSpecs)
 
 Please update all links that point to this repository to reflect the new address:
 
